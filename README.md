@@ -1,4 +1,4 @@
-# Análisis financiero de una PYME | Power BI
+# Análisis financiero de una PYME (Novera)
 
 Dashboard de Power BI que evalúa la salud financiera de una PYME ecuatoriana entre 2022 y 2024: ingresos, gastos y margen neto frente a una meta de referencia del 60 %.
 
