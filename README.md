@@ -6,7 +6,7 @@ Dashboard de Power BI que evalúa la salud financiera de una PYME ecuatoriana en
 
 ![Dashboard](Captura%20de%20pantalla%202026-10-30%20145712.png)
 
-[Informe completo del proyecto (PDF)](An%C3%A1lisis_Financiero.pdf)
+[Informe completo del proyecto (PDF)](Análisis_Financiero.pdf)
 
 ## Preguntas de negocio
 
@@ -89,4 +89,4 @@ Con Año 2024 y provincia Pichincha, la utilidad y la rentabilidad quedan en bla
 
 ## Autora
 
-Itati Bravo, analista de Business Intelligence.
+Itati Bravo, Analista de Business Intelligence.
